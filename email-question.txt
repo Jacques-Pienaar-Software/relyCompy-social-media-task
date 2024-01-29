@@ -1,0 +1,25 @@
+Good day Joe,
+
+I hope that this mail finds you well!
+
+I am contacting you to gain some further insights into the transactions 
+being made at [CompanyName]. Please review the list of questions that I have
+below and kindly get back to me.
+
+1. How does the information about transactions get used at the moment 
+(i.e. Do you have processes that take effect the moment a transaction 
+is completed or do you process transactions in bulk on a daily basis)?
+
+2. How many different types or categories of transactions do you do on a 
+daily/monthly basis, and would you be able to share some blueprints or schemas with us?
+
+3. Would you be able to provide metrics of the number of transactions done and the sizes of 
+these transactions for the past 6 months. This is so that we can effectively budget resources 
+and ensure a reliable system?
+
+Please advise on the questions above, and let me know if 
+you have any questions. 
+
+Kind regards,
+
+Jacques Pienaar
