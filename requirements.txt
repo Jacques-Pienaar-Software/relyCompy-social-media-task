@@ -1,3 +1,3 @@
-flask
+flask[async]
 asyncio
 aiohttp==3.9.0b0
